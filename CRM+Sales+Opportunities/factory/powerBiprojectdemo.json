@@ -1,0 +1,15 @@
+{
+	"name": "powerBiprojectdemo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "955f016a-3b1f-4f27-8a9e-0c4437f1540f",
+		"tenantId": "a5af7706-4b84-4ab0-b670-1b7e401bfe6c"
+	}
+}
